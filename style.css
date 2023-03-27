@@ -562,6 +562,9 @@ p {
 	#resume .timeline-content p{
 		padding-right: 10%;
 	}
+	#resume .timeline-content ul{
+		padding-right: 10%;
+	}
 }
 @media only screen and (max-width:480px) {
 	#resume .resume-header h2 {
